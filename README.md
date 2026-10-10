@@ -79,3 +79,15 @@ The internal classes (`Application.cpp` and `EventLogger.cpp`) are chained with 
 
 **If you still see a Black Screen or a "Failed to load Font" error:**
 Place any valid `.ttf` file locally inside the active run-directory of the executable and rename it to `arial.ttf`. The app will inherently consume it as a final fallback and recover.
+
+---
+
+## Author
+
+**Jeyadev R** · AI/ML Engineer & Full-Stack Developer · Chennai, India
+
+- Portfolio: [jeyadev.dev](https://jeyadev.dev/projects/sudoku-visualisation)
+- GitHub: [@jeyadev-jd](https://github.com/jeyadev-jd)
+- LinkedIn: [r-jeyadev](https://www.linkedin.com/in/r-jeyadev)
+
+If this project is useful to you, a ⭐ on the repo helps others find it.
